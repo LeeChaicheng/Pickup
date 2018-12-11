@@ -17,10 +17,4 @@ python PicDownloader.py
 
 
 ##联系
-我的Email: hk2291976@hotmail.com
-
-我的CSDN: [http://blog.csdn.net/hk2291976/](http://blog.csdn.net/hk2291976/)
-
-我的简书：[http://www.jianshu.com/users/30f737ee0051](http://www.jianshu.com/users/30f737ee0051)
-
-我的博客园：[www.cnblogs.com/voidsky/](www.cnblogs.com/voidsky/)
+我的Email: 1084415353@qq.com
