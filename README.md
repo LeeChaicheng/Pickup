@@ -16,5 +16,4 @@ python PicDownloader.py
 然后输入需要查找的图片关键词，就能自动下载到pictue文件目录下
 
 
-##联系
-我的Email: 1084415353@qq.com
+
